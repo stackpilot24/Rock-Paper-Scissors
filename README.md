@@ -37,9 +37,12 @@ cd rock-paper-scissors
 # Terminal version (no install needed)
 python game.py
 
+
 # Web UI
+```text
 pip install streamlit
 streamlit run streamlit_app.py
+```
 ```text
 rps-ultimate/
 ├── game.py             # Terminal/CLI version

@@ -8,14 +8,15 @@ You play against an AI opponent that actually learns from your moves — the har
 
 
 ✨ Features
-
+```text
 🖖 5 choices — Rock, Paper, Scissors, Lizard, Spock
 🤖 3 AI difficulty levels — Easy, Medium, Hard
 📊 Live score tracker — Wins, Losses, Ties, Win Rate
 💾 Leaderboard — saves your all-time scores
 🎨 Dark neon UI — built with Streamlit + custom CSS
 ⚡ Instant play — no login, no download needed
-
+ ```
+```text
 📜 The 10 Rules
 ✂️  Scissors  cuts        📄 Paper
 📄  Paper     covers      🪨 Rock
@@ -27,7 +28,7 @@ You play against an AI opponent that actually learns from your moves — the har
 📄  Paper     disproves   🖖 Spock
 🖖  Spock     vaporizes   🪨 Rock
 🪨  Rock      crushes     ✂️  Scissors
-
+```
 
 # Clone the repo
 git clone https://github.com/stackpilot24/Rock-Paper-Scissors.git
@@ -36,16 +37,14 @@ cd rock-paper-scissors
 # Terminal version (no install needed)
 python game.py
 
-# Desktop UI (no install needed)
-python tkinter_app.py
-
 # Web UI
 pip install streamlit
 streamlit run streamlit_app.py
-
+```text
 rps-ultimate/
 ├── game.py             # Terminal/CLI version
 ├── tkinter_app.py      # Desktop GUI (Tkinter)
 ├── streamlit_app.py    # Web UI (deployed online)
 ├── requirements.txt    # Dependencies
 └── README.md           # You are here!
+```

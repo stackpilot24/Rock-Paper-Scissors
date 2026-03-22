@@ -30,7 +30,7 @@ You play against an AI opponent that actually learns from your moves — the har
 
 
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/rps-ultimate.git
+git clone https://github.com/stackpilot24/Rock-Paper-Scissors.git
 cd rock-paper-scissors
 
 # Terminal version (no install needed)
